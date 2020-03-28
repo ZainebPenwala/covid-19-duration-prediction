@@ -31,3 +31,7 @@ SYMPTOMS = ['cough', 'respiratory symptoms', 'weakness', 'fever', 'nausea', 'vom
     'body aches', 'sore throat']
 
 AGE_GROUPS = ['children', 'adults', 'senior citizens']
+
+MODE_OF_SPREAD = ['air', 'water', 'physical contact']
+
+SOURCE_OF_SPREAD = [ 'bacteria', 'viruses', 'parasites' , 'rodents', 'mammals', 'reptiles']
