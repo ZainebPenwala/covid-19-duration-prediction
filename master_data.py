@@ -30,7 +30,7 @@ AGE_GROUPS_MAPPING = {
 SYMPTOMS = ['cough', 'respiratory symptoms', 'weakness', 'fever', 'nausea', 'vomiting', 'diarrhea', 'chills', 
     'body aches', 'sore throat']
 
-AGE_GROUPS = ['children', 'adults', 'senior citizens']
+AGE_GROUPS = ['children', 'adults', 'elderly']
 
 MODE_OF_SPREAD = ['air', 'water', 'physical contact']
 
