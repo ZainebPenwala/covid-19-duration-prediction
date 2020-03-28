@@ -24,7 +24,7 @@ SYMPTOMS_MAPPING = {
 AGE_GROUPS_MAPPING = {
     'children': 1,
     'adults': 2,
-    'senior citizens': 3,
+    'elderly': 3,
 }
 
 SYMPTOMS = ['cough', 'respiratory symptoms', 'weakness', 'fever', 'nausea', 'vomiting', 'diarrhea', 'chills', 
